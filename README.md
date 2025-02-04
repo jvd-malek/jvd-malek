@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @jvd-malek
+  
 As an experienced Full-Stack Developer, I excel at designing and developing robust web applications across various industries.   
 
 In the front-end, I utilize cutting-edge technologies such as React.js, Redux, and TypeScript, while leveraging Tailwind CSS for beautiful and user-friendly designs. On the backend, I work with either Express.js or Django to build APIs, and leverage SQL Server and MongoDB for data management.  
