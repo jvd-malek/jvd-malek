@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jvd-malek
   
-As a Junior Front-End Developer, I excel at designing and developing robust web applications across various industries.
+As a Front-End Developer, I excel at designing and developing robust web applications across various industries.
 
 In the front-end, I utilize cutting-edge technologies such as React.js, Redux, and TypeScript, while leveraging Tailwind CSS for beautiful and user-friendly designs. 
 
